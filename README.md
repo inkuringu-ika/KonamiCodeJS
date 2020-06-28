@@ -1,4 +1,4 @@
-# KonamiCode JavaScript
+# KonamiCodeJS
 You can use KonamiCode on your website!
 
 # How to use
