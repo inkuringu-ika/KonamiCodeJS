@@ -1,5 +1,5 @@
 /*
-Copyright (c) 2020 inkuringu-ika
+Copyright (c) 2020 typeling1578
 
 MIT License
 
@@ -8,7 +8,7 @@ function konami_code_action(){
 };
 */
 
-console.log("KonamiCodeJS v1.0 by inkuringu-ika");
+console.log("KonamiCodeJS v1.0 by typeling1578");
 
 if(typeof konami_code_action == "function"){
 
