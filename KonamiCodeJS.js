@@ -8,6 +8,8 @@ konamiCodeJS(function () {
 })
 */
 
+'use strict';
+
 function konamiCodeJS(callback){
     var konamiCode = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65];
     var inputCode = [];
